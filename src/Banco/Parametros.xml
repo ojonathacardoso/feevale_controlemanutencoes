@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Parametros do SGBD</comment>
+<entry key="driver">com.mysql.jdbc.Driver</entry>
+<entry key="url">jdbc:mysql://localhost/</entry>
+<entry key="banco">sistema</entry>
+<entry key="usuario">sistema</entry>
+<entry key="senha">sistema</entry>
+</properties>
